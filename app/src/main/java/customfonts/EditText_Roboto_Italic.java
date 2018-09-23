@@ -5,7 +5,7 @@ import android.graphics.Typeface;
 import android.util.AttributeSet;
 import android.widget.EditText;
 
-public class EditText_Roboto_Italic extends EditText {
+public class EditText_Roboto_Italic extends android.support.v7.widget.AppCompatEditText {
 
     public EditText_Roboto_Italic(Context context, AttributeSet attrs, int defStyle) {
         super(context, attrs, defStyle);
